@@ -2,7 +2,7 @@
 
 This app is live here: http://ahmedashfaq027.github.io/covid19-tracker
 
-Covid-19 tracker application is made with disease.sh API. It fetches you Active cases, Recovered cases and Deaths.
+Covid-19 tracker application is made with disease.sh API. It fetches you Active Coronavirus cases, Recovered cases and Deaths worldwide by country.
 
 It also has a map visualization to show the number of cases as per the country.
 
